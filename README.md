@@ -17,6 +17,3 @@ This repository contains the deliverables for **Project 3** of the Decode Labs i
     3. *Multi-Channel Callback Phishing (TOAD)*[cite: 1]
 
 
-
-## 🚀 Usage & Submission
-The included PDF document serves as the final standalone report satisfying all requirements for Project 3. It can be reviewed directly or submitted to the Decode Labs portal as an organizational security awareness reference.
